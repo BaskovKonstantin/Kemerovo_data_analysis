@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "train_station",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 172, "NAME": "Пионерская", "NAME_EN": null, "NAME_RU": "Пионерская", "RAILWAY": "station", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 893912872 }, "geometry": { "type": "Point", "coordinates": [ 86.107878498899325, 55.352757264038829 ] } },
+{ "type": "Feature", "properties": { "fid": 241, "NAME": "Правотомск", "NAME_EN": null, "NAME_RU": "Правотомск", "RAILWAY": "station", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 944523720 }, "geometry": { "type": "Point", "coordinates": [ 86.02452980000001, 55.3932911 ] } },
+{ "type": "Feature", "properties": { "fid": 242, "NAME": "Шахтёр", "NAME_EN": null, "NAME_RU": "Шахтер", "RAILWAY": "halt", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 944523738 }, "geometry": { "type": "Point", "coordinates": [ 86.0816505, 55.419522 ] } },
+{ "type": "Feature", "properties": { "fid": 243, "NAME": "Ишаново", "NAME_EN": null, "NAME_RU": "Ишаново", "RAILWAY": "station", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 944523743 }, "geometry": { "type": "Point", "coordinates": [ 85.969669700000011, 55.3223034 ] } },
+{ "type": "Feature", "properties": { "fid": 244, "NAME": "Предкомбинат", "NAME_EN": null, "NAME_RU": "Предкомбинат", "RAILWAY": "station", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 944523747 }, "geometry": { "type": "Point", "coordinates": [ 86.0299647, 55.3602888 ] } },
+{ "type": "Feature", "properties": { "fid": 249, "NAME": "Латыши", "NAME_EN": null, "NAME_RU": "Латыши", "RAILWAY": "station", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 945389995 }, "geometry": { "type": "Point", "coordinates": [ 86.166063200000011, 55.5329923 ] } },
+{ "type": "Feature", "properties": { "fid": 250, "NAME": "58 км", "NAME_EN": "58 km", "NAME_RU": "58 км", "RAILWAY": "halt", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 945389996 }, "geometry": { "type": "Point", "coordinates": [ 86.1522285, 55.5067197 ] } },
+{ "type": "Feature", "properties": { "fid": 251, "NAME": "Притомье", "NAME_EN": "Pritomye", "NAME_RU": "Притомье", "RAILWAY": "halt", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 945389997 }, "geometry": { "type": "Point", "coordinates": [ 86.1389978, 55.472844 ] } },
+{ "type": "Feature", "properties": { "fid": 365, "NAME": "38 км", "NAME_EN": null, "NAME_RU": null, "RAILWAY": "halt", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 2935969830 }, "geometry": { "type": "Point", "coordinates": [ 86.0477718, 55.3293634 ] } },
+{ "type": "Feature", "properties": { "fid": 432, "NAME": "Кемерово-Сортировочная", "NAME_EN": null, "NAME_RU": null, "RAILWAY": "station", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 3383293029 }, "geometry": { "type": "Point", "coordinates": [ 86.03966410000001, 55.3235235 ] } },
+{ "type": "Feature", "properties": { "fid": 433, "NAME": "32 км", "NAME_EN": "32 km", "NAME_RU": "32 км", "RAILWAY": "halt", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 3383525628 }, "geometry": { "type": "Point", "coordinates": [ 85.9944494, 55.3242725 ] } },
+{ "type": "Feature", "properties": { "fid": 436, "NAME": "51 км", "NAME_EN": "51 km", "NAME_RU": "51 км", "RAILWAY": "halt", "STATION": null, "OSM_TYPE": "node", "OSM_ID": 3524348466 }, "geometry": { "type": "Point", "coordinates": [ 86.0983796, 55.4392719 ] } }
+]
+}

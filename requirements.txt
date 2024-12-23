@@ -1,0 +1,6 @@
+geopandas
+ipykernel
+blocksnet 
+folium 
+matplotlib 
+mapclassify
